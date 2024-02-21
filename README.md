@@ -5,7 +5,7 @@ Enables lethal company save files to be restored in the case you get griefed
 Windows machine
 
 # How to install:
-1. download the powershell script
+1. [download the powershell script](LC_backup_setup.ps1)
 2. move the powershell script to desktop (or somewhere you can access easily while playing the game)
 3. run the powershell script
     - You will probably need to right click `run with powershell`
